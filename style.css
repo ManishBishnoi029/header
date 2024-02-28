@@ -1,0 +1,28 @@
+.rr {
+    
+    
+    padding:20px;
+    overflow: hidden;
+    background-color:#333333;
+
+   }
+   
+.rr a {   
+      
+      color: white;
+      
+      padding: 20PX;
+      text-decoration: none;
+   }
+   
+   
+.rr a:hover {
+      background-color: #111111;
+   }
+
+   body{
+      background-image: url(https://i.postimg.cc/85nd7XNk/pexels-johannes-plenio-1103970.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+   }
+   
